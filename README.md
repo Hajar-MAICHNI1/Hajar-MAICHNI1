@@ -61,6 +61,5 @@ I bridge the gap between **Hardware** (Sensors, Microcontrollers) and **Intellig
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hajar-MAICHNI1&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hajar-MAICHNI1&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </p>
