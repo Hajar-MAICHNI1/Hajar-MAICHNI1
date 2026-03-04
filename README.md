@@ -1,9 +1,9 @@
 # Hi there, I'm Hajar MAICHNI 👋
 
-### 🚀 Embedded Systems & AI Engineer
-*M2 Student at Centre d'Excellence, Agadir (Morocco)*
+### 🚀 Computer engineering & Embedded Systems
+*M2 Student at Centre of Excellence, Agadir (Morocco)*
 
-I bridge the gap between **Hardware** (Sensors, Microcontrollers) and **Intelligence** (AI, Data, Cloud). Passionate about building autonomous systems and connected devices.
+I bridge the gap between **Hardware** (Sensors, Microcontrollers), **Software** (Dev) and **Intelligence** (AI, Data, Cloud). Passionate about building autonomous systems and connected devices.
 
 ---
 
