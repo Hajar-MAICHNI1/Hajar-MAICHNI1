@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Hajar MAICHNI 👋
 
 **Computer Engineering Graduate Student**  
@@ -75,4 +74,4 @@ I'm passionate about designing intelligent embedded systems by combining hardwar
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-```
+
